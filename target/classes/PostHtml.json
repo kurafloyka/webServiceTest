@@ -1,0 +1,12 @@
+{
+  "FromName": "EuroMessage",
+  "FromAddress": "ecomm@euromsg.net",
+  "ReplyAddress": "automation@euromsg.com",
+  "Subject": "Test PostHtml",
+  "HtmlBody": "<![CDATA[<html><head><title></title></head><body>bu mail PostHtml methodu üzerinden test amaçlı gönderilmiştir.</body></html>",
+  "Charset": "iso-8859-9",
+  "ToName": "test automed",
+  "ToEmailAddress": "automation@euromsg.com",
+  "CcAddress": "automation1@euromsg.com",
+  "BccAddress": "automation2@euromsg.com"
+}

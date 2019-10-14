@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d07c5a-7f2c-4470-b563-cd6274877fd5" name="Default Changelist" comment="AddtosendList tamamlandi.">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restAssured.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddBulkFile/AddBulkFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddBulkFile/AddBulkFileResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddToAllLists/AddToAllListsResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddToSendLists/AddToSendLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddToSendLists/AddToSendListsDatum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AddToSendLists/AddToSendListsResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateEmailCampaign/CreateEmailCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateEmailCampaign/CreateEmailCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreatePushCampaign/CreatePushCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreatePushCampaign/CreatePushCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreatePushCampaign/MultipleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateSendList/CreateSendList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateSendList/CreateSendListResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateSmsCampaign/CreateSmsCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateSmsCampaign/CreateSmsCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateWebPushCampaign/CreateWebPushCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateWebPushCampaign/CreateWebPushCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CreateWebPushCampaign/MultipleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetCampaignReport/GetCampaignReportResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetEmailCampaignDeliveryStatusReportViaFtp/FtpDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetEmailCampaignDeliveryStatusReportViaFtp/GetEmailCampaignDeliveryStatusReportViaFtp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetEmailCampaignDeliveryStatusReportViaFtp/GetEmailCampaignDeliveryStatusReportViaFtpResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetPostResult/GetPostResultResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/GetUnsubscribeReportBetweenTwoDates/GetUnsubscribeReportBetweenTwoDatesResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertMemberDemography/DemographicDatum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertMemberDemography/InsertMemberDemography.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertMemberDemography/InsertMemberDemographyResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertUpdateRowInDwTable/InsertUpdateRowInDwTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertUpdateRowInDwTable/InsertUpdateRowInDwTableDatum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InsertUpdateRowInDwTable/InsertUpdateRowInDwTableResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Login/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/PostHtml/PostHtml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/PostHtml/PostHtmlResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/ReportInformationList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/SendEmailCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/SendEmailCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendEmailCampaign/SubjectOptimization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendOngoingEmail/SendOngoingEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendOngoingEmail/SendOngoingEmailDatum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendOngoingEmail/SendOngoingEmailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendPushCampaign/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendPushCampaign/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendPushCampaign/ReportInformationList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendPushCampaign/SendPushCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendPushCampaign/SendPushCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendSmsCampaign/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendSmsCampaign/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendSmsCampaign/ReportInformationList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendSmsCampaign/SendSmsCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendSmsCampaign/SendSmsCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendWebPushCampaign/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendWebPushCampaign/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendWebPushCampaign/ReportInformationList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendWebPushCampaign/SendWebPushCampaign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/SendWebPushCampaign/SendWebPushCampaignResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AddBulkFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Books.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AddToSendLists.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CreateEmailCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CreatePushCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CreateSmsCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CreateWebPushCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/GetEmailCampaignDeliveryStatusReportViaFtp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/InsertMemberDemography.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/InsertUpdateRowInDwTable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/PostHtml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SendEmailCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SendOngoingEmail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SendPushCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SendSmsCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SendWebPushCampaign.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/loginResponse.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/BaseAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/BaseAPITest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getcam</find>
+      <find>Hash</find>
+      <find>InsertM</find>
+      <find>sta</find>
+      <find>sta2</find>
+      <find>readJson</find>
+      <find>Insertmem</find>
+      <find>addtoesn</find>
+      <find>ADDTOSENDLIST</find>
+      <find>addtosen</find>
+      <find>addtose</find>
+      <find>insertmemberdemo</find>
+      <find>Addtosen</find>
+      <find>Insert</find>
+      <find>add</find>
+      <find>insertmemberde</find>
+      <find>dynamicValue</find>
+      <find>insertmember</find>
+      <find>addtosendlist</find>
+      <find>createse</find>
+      <find>inser</find>
+      <find>hakan</find>
+      <find>insertmemberdem</find>
+      <find>insertmem</find>
+      <find>sta3</find>
+      <find>readjson</find>
+      <find>getpos</find>
+      <find>keyvaluedegeri</find>
+      <find>faruk</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S74DQekq7y7Fg62HEA2jYsmOKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Post.addToSendLists">
+    <configuration name="Post.GetPostResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Post" />
+      <option name="METHOD_NAME" value="GetPostResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post.addToSendLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Post" />
+      <option name="METHOD_NAME" value="addToSendLists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post.insertMemberDemography" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Post" />
+      <option name="METHOD_NAME" value="insertMemberDemography" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post.insertUpdateRowInDwTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Post" />
+      <option name="METHOD_NAME" value="insertUpdateRowInDwTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Post" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Post.addToSendLists" />
+        <item itemvalue="JUnit.Post.insertMemberDemography" />
+        <item itemvalue="JUnit.Post.GetPostResult" />
+        <item itemvalue="JUnit.Post.insertUpdateRowInDwTable" />
+        <item itemvalue="JUnit.Post.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d07c5a-7f2c-4470-b563-cd6274877fd5" name="Default Changelist" comment="" />
+      <created>1567412240203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567412240203</updated>
+      <workItem from="1570901181530" duration="849000" />
+      <workItem from="1571086001165" duration="3496000" />
+    </task>
+    <task id="LOCAL-00001" summary="Json objesinin icinde gezinme islemi yapildi.">
+      <created>1568105764848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568105764849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GetPostResultTamamlandi">
+      <created>1568109640471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568109640471</updated>
+    </task>
+    <task id="LOCAL-00003" summary="InsertUpdateRowData Tamamlandi">
+      <created>1568112366092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568112366092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="InsertUpdateRowData Tamamlandi">
+      <created>1568116742349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568116742350</updated>
+    </task>
+    <task id="LOCAL-00005" summary="InsertUpdateRowData Tamamlandi">
+      <created>1568121147873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568121147873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Last Updat yapildi.">
+      <created>1568121433222</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568121433222</updated>
+    </task>
+    <task id="LOCAL-00007" summary="AddtosendList tamamlandi.">
+      <created>1568187699019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568187699019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="AddtosendList tamamlandi.">
+      <created>1568191281769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568191281769</updated>
+    </task>
+    <task id="LOCAL-00009" summary="AddtosendList tamamlandi.">
+      <created>1568192092570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568192092570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="AddtosendList tamamlandi.">
+      <created>1568196063229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568196063229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="AddtosendList tamamlandi.">
+      <created>1568196240918</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568196240918</updated>
+    </task>
+    <task id="LOCAL-00012" summary="AddtosendList tamamlandi.">
+      <created>1568196398256</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568196398256</updated>
+    </task>
+    <task id="LOCAL-00013" summary="AddtosendList tamamlandi.">
+      <created>1568198767646</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568198767646</updated>
+    </task>
+    <task id="LOCAL-00014" summary="AddtosendList tamamlandi.">
+      <created>1568200229713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568200229713</updated>
+    </task>
+    <task id="LOCAL-00015" summary="AddtosendList tamamlandi.">
+      <created>1568201201282</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568201201282</updated>
+    </task>
+    <task id="LOCAL-00016" summary="AddtosendList tamamlandi.">
+      <created>1568201432374</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568201432374</updated>
+    </task>
+    <task id="LOCAL-00017" summary="AddtosendList tamamlandi.">
+      <created>1568202514713</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568202514714</updated>
+    </task>
+    <task id="LOCAL-00018" summary="AddtosendList tamamlandi.">
+      <created>1568203663773</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568203663774</updated>
+    </task>
+    <task id="LOCAL-00019" summary="AddtosendList tamamlandi.">
+      <created>1568205505488</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568205505488</updated>
+    </task>
+    <task id="LOCAL-00020" summary="AddtosendList tamamlandi.">
+      <created>1568206390703</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568206390703</updated>
+    </task>
+    <task id="LOCAL-00021" summary="AddtosendList tamamlandi.">
+      <created>1568206923046</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568206923046</updated>
+    </task>
+    <task id="LOCAL-00022" summary="AddtosendList tamamlandi.">
+      <created>1568208126174</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208126174</updated>
+    </task>
+    <task id="LOCAL-00023" summary="AddtosendList tamamlandi.">
+      <created>1568208326552</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208326552</updated>
+    </task>
+    <task id="LOCAL-00024" summary="AddtosendList tamamlandi.">
+      <created>1568208544336</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208544336</updated>
+    </task>
+    <task id="LOCAL-00025" summary="AddtosendList tamamlandi.">
+      <created>1568208998715</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208998715</updated>
+    </task>
+    <task id="LOCAL-00026" summary="AddtosendList tamamlandi.">
+      <created>1568209701242</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1568209701242</updated>
+    </task>
+    <task id="LOCAL-00027" summary="AddtosendList tamamlandi.">
+      <created>1568209891247</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1568209891247</updated>
+    </task>
+    <task id="LOCAL-00028" summary="AddtosendList tamamlandi.">
+      <created>1568210423874</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1568210423874</updated>
+    </task>
+    <task id="LOCAL-00029" summary="AddtosendList tamamlandi.">
+      <created>1568210786619</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1568210786619</updated>
+    </task>
+    <task id="LOCAL-00030" summary="AddtosendList tamamlandi.">
+      <created>1568211029933</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1568211029933</updated>
+    </task>
+    <task id="LOCAL-00031" summary="AddtosendList tamamlandi.">
+      <created>1568211543831</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1568211543831</updated>
+    </task>
+    <task id="LOCAL-00032" summary="AddtosendList tamamlandi.">
+      <created>1568270013775</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1568270013775</updated>
+    </task>
+    <task id="LOCAL-00033" summary="AddtosendList tamamlandi.">
+      <created>1568270948312</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1568270948312</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Post_based - 2019.09.11 at 13h 59m 43s.xml">
+      <configuration name="Post.based" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_createFile - 2019.09.11 at 14h 02m 17s.xml">
+      <configuration name="Post.createFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_login - 2019.09.11 at 16h 53m 50s.xml">
+      <configuration name="Post.login" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_insertUpdateRowInDwTable - 2019.09.12 at 09h 08m 18s.xml">
+      <configuration name="Post.insertUpdateRowInDwTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_insertMemberDemography - 2019.09.12 at 09h 09m 29s.xml">
+      <configuration name="Post.insertMemberDemography" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_insertMemberDemography - 2019.09.12 at 09h 14m 33s.xml">
+      <configuration name="Post.insertMemberDemography" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_GetPostResult - 2019.09.12 at 09h 18m 32s.xml">
+      <configuration name="Post.GetPostResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_GetPostResult - 2019.09.12 at 09h 19m 02s.xml">
+      <configuration name="Post.GetPostResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_insertMemberDemography - 2019.09.12 at 09h 29m 13s.xml">
+      <configuration name="Post.insertMemberDemography" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Post_addToSendLists - 2019.09.12 at 09h 32m 20s.xml">
+      <configuration name="Post.addToSendLists" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Json objesinin icinde gezinme islemi yapildi." />
+    <MESSAGE value="GetPostResultTamamlandi" />
+    <MESSAGE value="InsertUpdateRowData Tamamlandi" />
+    <MESSAGE value="Last Updat yapildi." />
+    <MESSAGE value="AddtosendList tamamlandi." />
+    <option name="LAST_COMMIT_MESSAGE" value="AddtosendList tamamlandi." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="given()&#10;                .body(getInsertMemberDemographyData())&#10;                .header(&quot;Authorization&quot;, token)&#10;                .when()&#10;                .request(&quot;POST&quot;, &quot;/Member/InsertMemberDemography&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

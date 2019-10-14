@@ -1,0 +1,68 @@
+2019-09-04 16:16:08 INFO  Post:93 login - true
+2019-09-04 16:25:38 INFO  Post:93 login - true
+2019-09-05 09:58:18 INFO  Post:93 login - true
+2019-09-05 10:15:28 INFO  Post:94 login - true
+2019-09-05 10:26:47 INFO  Post:260 baseDir - mozilla
+2019-09-05 10:35:22 INFO  Post:94 login - true
+2019-09-05 16:06:13 INFO  Post:139 InsertMemberDemography - nullnull
+2019-09-05 16:08:04 INFO  Post:139 InsertMemberDemography - nullnull
+2019-09-05 16:15:51 INFO  Post:139 InsertMemberDemography - nullnull
+2019-09-05 16:20:24 INFO  Post:139 InsertMemberDemography - nullnull
+2019-09-05 16:26:33 INFO  Post:140 InsertMemberDemography - D5E39814CFC4407B956D1723042A39B9true
+2019-09-05 16:58:46 INFO  Post:156 InsertMemberDemography - InsertMemberDemographyResponse{MemberId='89F9D0F853AD42AAB7BD889330159982', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-05 17:02:02 INFO  Post:157 InsertMemberDemography - InsertMemberDemographyResponse{MemberId='78E4572E422B4752A76EB0249D398A47', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-05 17:45:16 INFO  Post:157 InsertMemberDemography - InsertMemberDemographyResponse{MemberId='70F22E8EEEC540BD974A5C51097E3805', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-05 17:45:54 INFO  Post:157 InsertMemberDemography - InsertMemberDemographyResponse{MemberId='2EDD6A11E07F48B7BC915751EA779E71', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-06 10:28:16 INFO  Post:100 login - true
+2019-09-06 10:46:30 INFO  Post:64 createSendList - CreateSendListResponse{ConversationID='null', CreatedListID='661704', Success='true', Errors='[]', DetailedMessage='', TransactionId='046328E671214BCDB2E4EBCDBAC6CD78'}
+2019-09-06 13:48:53 INFO  Post:89 createSendList - CreateSendListResponse{ConversationID='null', CreatedListID='661704', Success='true', Errors='[]', DetailedMessage='', TransactionId='0A46B527F6AE429A9811D4F5F5653884'}
+2019-09-06 13:49:05 INFO  Post:160 login - true
+2019-09-06 13:49:20 INFO  Post:215 insertMemberDemography - InsertMemberDemographyResponse{MemberId='AA272E2FFE014AA1B10D2F2D09736258', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-06 13:52:55 INFO  Post:89 createSendList - CreateSendListResponse{ConversationID='null', CreatedListID='661704', Success='true', Errors='[]', DetailedMessage='', TransactionId='3FD375CF2B2043F4BDD60855FD37ADDE'}
+2019-09-06 13:52:56 INFO  Post:362 logg - farukakyol
+2019-09-06 13:52:56 INFO  Post:160 login - true
+2019-09-06 13:52:56 INFO  Post:215 insertMemberDemography - InsertMemberDemographyResponse{MemberId='467DB9F62E8F46EB8EE6AA56B3F7422C', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-10 10:11:49 INFO  Post:60 getCampaignReport - 0
+2019-09-10 10:12:43 INFO  Post:60 getCampaignReport - Sonuc0
+2019-09-10 10:29:46 INFO  Post:62 getCampaignReport - 
+2019-09-10 10:52:40 INFO  Post:57 getCampaignReport - 
+2019-09-10 11:08:53 INFO  Post:63 getCampaignReport - 
+2019-09-10 11:09:31 INFO  Post:63 getCampaignReport - 
+2019-09-10 11:10:43 INFO  Post:63 getCampaignReport - 
+2019-09-10 11:12:36 INFO  Post:63 getCampaignReport - 
+2019-09-10 11:13:14 INFO  Post:63 getCampaignReport - 
+2019-09-10 11:20:49 INFO  Post:68 getCampaignReport - 3faruk
+2019-09-10 11:31:44 INFO  Post:69 getCampaignReport - All Campaign Size: 3
+2019-09-10 11:45:43 INFO  Post:67 getCampaignReport - All Campaign Size: 3
+2019-09-10 11:51:22 INFO  Post:67 getCampaignReport - All Campaign Size: 3
+2019-09-10 11:53:32 INFO  Post:73 getCampaignReport - Euro Message EComm
+2019-09-10 14:10:27 INFO  Post:356 insertMemberDemography - InsertMemberDemographyResponse{MemberId='61DA0991EE0B405D891135E1B0002500', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-10 14:27:43 INFO  Post:356 insertMemberDemography - InsertMemberDemographyResponse{MemberId='FE397228B5C240BCB00216A51A4841FC', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-10 16:09:18 INFO  Post:356 insertMemberDemography - InsertMemberDemographyResponse{MemberId='C390F7243AA34D6EBB84C71471F29B28', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 11:05:53 INFO  Post:294 addToSendLists - otomasyonDatasi--bKA5vo9L
+2019-09-11 11:12:08 INFO  Post:294 addToSendLists - otomasyonDatasi--goyFJjm1
+2019-09-11 11:20:02 INFO  Post:407 insertMemberDemography - InsertMemberDemographyResponse{MemberId='D0FB3C4380714733820E8D4F38FC1859', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 11:32:38 INFO  Post:407 insertMemberDemography - InsertMemberDemographyResponse{MemberId='A2AB74A7659C4D4EAACDD16D1150E90B', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 11:37:43 INFO  Post:407 insertMemberDemography - InsertMemberDemographyResponse{MemberId='90CF96F9C8A84ACDA12FC19F102D3CED', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 11:39:45 INFO  Post:407 insertMemberDemography - InsertMemberDemographyResponse{MemberId='C0E2B8557CBA48588FDCDAB5BAD5EBA4', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 12:58:20 INFO  Post:370 insertMemberDemography - otomasyonDatasidhwkZYl6
+2019-09-11 12:58:21 INFO  Post:409 insertMemberDemography - InsertMemberDemographyResponse{MemberId='8211A3CB4F6D4182941628EDE0D7EF2A', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 13:00:29 INFO  Post:287 addToSendLists - keyvaluedegeri :otomasyonDatasidhwkZYl6
+2019-09-11 13:37:28 INFO  Post:52 setup - deger-----otomasyonDatasidhwkZYl6
+2019-09-11 13:37:30 INFO  Post:265 login - true
+2019-09-11 13:41:01 INFO  Post:52 setup - deger-----faruk
+2019-09-11 13:41:33 INFO  Post:362 insertMemberDemography - keyvaluedegerinull
+2019-09-11 13:41:33 INFO  Post:372 insertMemberDemography - otomasyonDatasi6seG50f7
+2019-09-11 13:41:33 INFO  Post:411 insertMemberDemography - InsertMemberDemographyResponse{MemberId='17491586BAC04BEDB1EEA36FAEB835FE', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-11 13:43:09 INFO  Post:52 setup - deger-----otomasyonDatasi6seG50f7
+2019-09-11 13:43:11 INFO  Post:286 addToSendLists - keyvaluedegeri :otomasyonDatasi6seG50f7
+2019-09-11 13:45:01 INFO  Post:52 setup - deger-----otomasyonDatasi6seG50f7
+2019-09-11 13:59:42 INFO  Post:52 setup - deger-----otomasyonDatasi6seG50f7
+2019-09-11 14:02:16 INFO  Post:52 setup - deger-----otomasyonDatasi6seG50f7
+2019-09-11 16:53:49 INFO  Post:267 login - true
+2019-09-12 09:09:28 INFO  Post:411 insertMemberDemography - InsertMemberDemographyResponse{MemberId='FDFF704EA8874B27AF6FC1AA22245908', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-12 09:14:32 INFO  Post:415 insertMemberDemography - InsertMemberDemographyResponse{MemberId='663B8BCD465142C7BB085BD8851D3737', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-12 09:19:01 INFO  Post:682 hakan - farukakyol ilk request
+2019-09-12 09:29:12 INFO  Post:398 insertMemberDemography - InsertMemberDemographyResponse{MemberId='91C26F6BB3174E02A53ACF60DFD454DF', Value='null', Success='true', Errors='[]', DetailedMessage='', TransactionId='null'}
+2019-09-12 09:32:20 INFO  Post:200 getKeyValueFrominsertMemberDemography - keyValue in Method: otomasyonDatasi0GT13Lb6
+2019-09-12 09:32:20 INFO  Post:285 addToSendLists - keyvaluedegeri :otomasyonDatasi0GT13Lb6

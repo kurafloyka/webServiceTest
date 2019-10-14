@@ -1,0 +1,10 @@
+{
+  "Key" : "KEY_ID",
+  "Value" : "test_automation_13245768",
+  "Move" : false,
+  "SendLists" :
+  [
+    { "ListName" : "automation_list", "GroupName": "automation_grup"},
+    { "ListName" : "DenemeRest", "GroupName": "DenemeRest"}
+  ]
+}

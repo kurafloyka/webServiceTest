@@ -1,0 +1,15 @@
+{
+  "Key" : "KEY_ID",
+  "Value" : "test_auttrr",
+  "ForceUpdate" : true,
+  "DemographicData" :
+  [
+    { "Key" : "NAME", "Value": "test adrrr"},
+    { "Key" : "f_surname", "Value": "test soyad"},
+    { "Key" : "Cep_Telefonunuz", "Value": "90.534.7674321"},
+    { "Key" : "Doğum_Tarihiniz", "Value": "2005-01-01"},
+    { "Key" : "EMAIL_PERMIT", "Value": "Y"},
+    { "Key" : "GSM_PERMIT", "Value": "Y"},
+    { "Key" : "EMAIL", "Value": "test_mail@euromsg.com"}
+  ]
+} 

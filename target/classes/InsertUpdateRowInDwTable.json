@@ -1,0 +1,12 @@
+{
+  "DwTableName" : "main_table",
+  "Key" : "KEY_ID",
+  "Value" : "test_key_id_id234_2301123",
+  "ForceUpdate" : true,
+  "DemographicData" :
+  [
+    { "Key" : "EMAIL", "Value": "testttt234tttt333223423t@euromsg.com"} ,
+    {"Key":"NAME","Value":"test ad_01"}
+  ],
+  "InsertEmptyValueForNonDemographicColumns": true
+}
